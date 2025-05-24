@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1rem;
+}
+
+
+a, h1, p{
+    color: #424242;
+}
+
+button{
+    background: none;
+    border: 1px solid #847A71;
+    border-radius: 2rem;
+    width: 8.2rem;
+    height: 2.4rem;
+    font-size: 1rem;
+    color: #847A71;
+}
+
+.head{
+    float: left;
+}
