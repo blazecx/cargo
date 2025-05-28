@@ -16,7 +16,10 @@ defineProps({
     Company: String,
     CompanyNumber: Number, 
     isOrderAccept: Boolean,
+    OnClickAccept: Function,
 })
+
+
 
 const Onclick = () =>{
     alert(111)
